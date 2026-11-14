@@ -16,9 +16,13 @@ a community server instead. Out of the box nothing changes: Photon Cloud stays o
 |---|---|
 | [haulnet-repo](https://github.com/haulnet/haulnet-repo) | The mod (BepInEx 5): host on your PC, join by invite or address, pick a community server |
 | [haulnet-server](https://github.com/haulnet/haulnet-server) | Server package for operators: LuxonServer with config, Docker image and status endpoint |
-| [haulnet-servers](https://github.com/haulnet/haulnet-servers) | The public list of community servers, published to [GitHub Pages](https://haulnet.github.io/haulnet-servers/) |
+| [haulnet-servers](https://github.com/haulnet/haulnet-servers) | The public list of community servers, published at [servers.haulnet.cc](https://servers.haulnet.cc/) |
 
-Status: **pre-alpha**. The first release is in preparation; until then the mod is built from source.
+Website: [haulnet.cc](https://haulnet.cc/). Status: **pre-alpha**. The first release is in preparation; until then
+the mod is built from source.
+
+Security reports: [security@haulnet.cc](mailto:security@haulnet.cc). Other questions:
+[contact@haulnet.cc](mailto:contact@haulnet.cc).
 
 The server side is the unmodified [LuxonServer](https://github.com/niansa/LuxonServer), an open-source
 Photon-compatible server. Haulnet needs no Photon account and no administrator rights, and it does not
