@@ -21,8 +21,7 @@ No Photon account, no admin rights, and until you pick Haulnet the game plays ex
   friends connect straight to it, like Minecraft's "Open to LAN": over the home network, or over the internet
   through [Radmin VPN](https://www.radmin-vpn.com/), [WireGuard](https://www.wireguard.com/) or a forwarded port.
 
-Website and documentation: [haulnet.cc](https://haulnet.cc/). Status: **pre-release**, tested by two players on two
-PCs; the first packaged release is in preparation, until then the mod is built from source.
+Website and documentation: [haulnet.cc](https://haulnet.cc/).
 
 Security reports: [security@haulnet.cc](mailto:security@haulnet.cc). Other questions:
 [contact@haulnet.cc](mailto:contact@haulnet.cc).
