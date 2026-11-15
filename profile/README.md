@@ -14,13 +14,12 @@ No Photon account, no admin rights, and until you pick Haulnet the game plays ex
 **Who it is for**
 
 - **Players far from Photon's regions.** The game offers only Photon Cloud's regions; when none is close, every
-  game has high ping. A Haulnet server can stand in any city (Moscow, Novosibirsk and Vladivostok today), and
-  anyone can add one closer to their players.
+  game has high ping. A Haulnet server can stand in any city, and anyone can add one closer to their players.
 - **People who want their own server.** Run haulnet-server on a VPS or at home, keep it for friends or list it for
   everyone.
-- **Friends in the same room or on Radmin VPN.** With "On my PC" the host's PC is the server and friends connect
-  straight to it: over the home network, or from anywhere through [Radmin VPN](https://www.radmin-vpn.com/), a free
-  virtual local network that links the PCs directly when it can.
+- **Direct play from your PC.** R.E.P.O. has no local mode. With "On my PC" the host's PC is the server and
+  friends connect straight to it, like Minecraft's "Open to LAN": over the home network, or over the internet
+  through [Radmin VPN](https://www.radmin-vpn.com/), [WireGuard](https://www.wireguard.com/) or a forwarded port.
 
 Website and documentation: [haulnet.cc](https://haulnet.cc/). Status: **pre-release**, tested by two players on two
 PCs; the first packaged release is in preparation, until then the mod is built from source.
