@@ -18,8 +18,9 @@ No Photon account, no admin rights, and until you pick Haulnet the game plays ex
   anyone can add one closer to their players.
 - **People who want their own server.** Run haulnet-server on a VPS or at home, keep it for friends or list it for
   everyone.
-- **Friends in the same room or on the same VPN.** With "On my PC" the host's PC is the server and friends connect
-  straight to it, with no internet server in between.
+- **Friends in the same room or on Radmin VPN.** With "On my PC" the host's PC is the server and friends connect
+  straight to it: over the home network, or from anywhere through [Radmin VPN](https://www.radmin-vpn.com/), a free
+  virtual local network that links the PCs directly when it can.
 
 | Repository | What it is |
 |---|---|
