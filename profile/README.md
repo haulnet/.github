@@ -7,19 +7,28 @@
 
 <p align="center"><b>Play R.E.P.O. with friends on a server you control.</b></p>
 
-R.E.P.O. sends every game through Photon Cloud, even when the players sit on the same network. Haulnet is a
-mod that brings direct play back: the host's game runs the server, and friends connect over the same LAN,
-any VPN they already use, IPv6 or a forwarded port. When a direct path is not possible, the game can live on
-a community server instead. Out of the box nothing changes: Photon Cloud stays one click away.
+R.E.P.O. runs every online game through Photon Cloud, even when friends sit in the same room. Haulnet is a free,
+open-source mod that lets the game live on your own PC, on a Haulnet server or on any server by address instead.
+No Photon account, no admin rights, and until you pick Haulnet the game plays exactly as without the mod.
+
+**Who it is for**
+
+- **Players far from Photon's regions.** The game offers only Photon Cloud's regions; when none is close, every
+  game has high ping. A Haulnet server can stand in any city (Moscow, Novosibirsk and Vladivostok today), and
+  anyone can add one closer to their players.
+- **People who want their own server.** Run haulnet-server on a VPS or at home, keep it for friends or list it for
+  everyone.
+- **Friends in the same room or on the same VPN.** With "On my PC" the host's PC is the server and friends connect
+  straight to it, with no internet server in between.
 
 | Repository | What it is |
 |---|---|
-| [haulnet-repo](https://github.com/haulnet/haulnet-repo) | The mod (BepInEx 5): host on your PC, join by invite or address, pick a community server |
+| [haulnet-repo](https://github.com/haulnet/haulnet-repo) | The mod (BepInEx 5): host on your PC, play on Haulnet servers or any server by address, friends follow the Steam invite |
 | [haulnet-server](https://github.com/haulnet/haulnet-server) | Server package for operators: LuxonServer with config, Docker image and status endpoint |
-| [haulnet-servers](https://github.com/haulnet/haulnet-servers) | The public list of community servers, published at [servers.haulnet.cc](https://servers.haulnet.cc/) |
+| [haulnet-servers](https://github.com/haulnet/haulnet-servers) | The public list of official and community servers, live at [servers.haulnet.cc](https://servers.haulnet.cc/) |
 
-Website: [haulnet.cc](https://haulnet.cc/). Status: **pre-alpha**. The first release is in preparation; until then
-the mod is built from source.
+Website and documentation: [haulnet.cc](https://haulnet.cc/). Status: **pre-release**, tested by two players on two
+PCs; the first packaged release is in preparation, until then the mod is built from source.
 
 Security reports: [security@haulnet.cc](mailto:security@haulnet.cc). Other questions:
 [contact@haulnet.cc](mailto:contact@haulnet.cc).
