@@ -22,12 +22,6 @@ No Photon account, no admin rights, and until you pick Haulnet the game plays ex
   straight to it: over the home network, or from anywhere through [Radmin VPN](https://www.radmin-vpn.com/), a free
   virtual local network that links the PCs directly when it can.
 
-| Repository | What it is |
-|---|---|
-| [haulnet-repo](https://github.com/haulnet/haulnet-repo) | The mod (BepInEx 5): host on your PC, play on Haulnet servers or any server by address, friends follow the Steam invite |
-| [haulnet-server](https://github.com/haulnet/haulnet-server) | Server package for operators: LuxonServer with config, Docker image and status endpoint |
-| [haulnet-servers](https://github.com/haulnet/haulnet-servers) | The public list of official and community servers, live at [servers.haulnet.cc](https://servers.haulnet.cc/) |
-
 Website and documentation: [haulnet.cc](https://haulnet.cc/). Status: **pre-release**, tested by two players on two
 PCs; the first packaged release is in preparation, until then the mod is built from source.
 
