@@ -7,7 +7,7 @@
 
 <p align="center"><b>Play R.E.P.O. with friends on a server you control.</b></p>
 
-R.E.P.O. runs every online game through Photon Cloud, even when friends sit in the same room. Haulnet is a free,
+R.E.P.O. runs every online game through Photon Cloud, even when friends sit on the same network. Haulnet is a free,
 open-source mod that lets the game live on your own PC, on a Haulnet server or on any server by address instead.
 No Photon account, no admin rights, and until you pick Haulnet the game plays exactly as without the mod.
 
@@ -19,7 +19,7 @@ No Photon account, no admin rights, and until you pick Haulnet the game plays ex
   everyone.
 - **Direct play from your PC.** R.E.P.O. has no local mode. With "On my PC" the host's PC is the server and
   friends connect straight to it, like Minecraft's "Open to LAN": over the home network, or over the internet
-  through [Radmin VPN](https://www.radmin-vpn.com/), [WireGuard](https://www.wireguard.com/) or a forwarded port.
+  through [Radmin VPN](https://www.radmin-vpn.com/) or [WireGuard](https://www.wireguard.com/).
 
 Website and documentation: [haulnet.cc](https://haulnet.cc/).
 
