@@ -23,6 +23,9 @@ No Photon account, no admin rights, and until you pick Haulnet the game plays ex
 
 Website and documentation: [haulnet.cc](https://haulnet.cc/).
 
+Install Haulnet through a mod manager from [Thunderstore](https://thunderstore.io/c/repo/p/Haulnet/Haulnet/) or
+get the latest version from [GitHub Releases](https://github.com/haulnet/haulnet-repo/releases/latest).
+
 Security reports: [security@haulnet.cc](mailto:security@haulnet.cc). Other questions:
 [contact@haulnet.cc](mailto:contact@haulnet.cc).
 
